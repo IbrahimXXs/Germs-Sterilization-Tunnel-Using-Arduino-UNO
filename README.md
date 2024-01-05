@@ -62,3 +62,6 @@ The DC motor is activated during the sanitization process, contributing to an ef
 Ibrahim Sarraj
 This project is licensed under the MIT License, allowing for modification and distribution under certain terms.
 Happy Coding <3
+
+![giphy (1)](https://github.com/IbrahimXXs/Germs-Sterilization-Tunnel-Using-Arduino-UNO/assets/146712453/1639a81c-4091-437f-a72c-d72b7b158651)
+
