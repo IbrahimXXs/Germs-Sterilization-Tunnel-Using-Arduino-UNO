@@ -1,7 +1,7 @@
 # Germs Guard Sterilization Tunnel
 
 ## Overview
-### *COVIDGuard Sterilization Tunnel is a motion-activated sanitization gateway designed to provide an additional layer of protection against viruses and germs, with a specific focus on COVID-19. This project utilizes a combination of a PIR (Passive Infrared) sensor, Arduino UNO microcontroller, LEDs, and a DC motor to create an automated sanitization system.*
+### Sterilization Tunnel is a motion-activated sanitization gateway designed to provide an additional layer of protection against viruses and germs.
 
 ### The project was developed using TinkerCAD Simulation, allowing for a virtual representation of the system.
 
