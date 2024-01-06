@@ -5,7 +5,9 @@
 
 ### The project was developed using TinkerCAD Simulation, allowing for a virtual representation of the system.
 
-![autodesk-tinkercad4190 logowik](https://github.com/IbrahimXXs/Germs-Sterilization-Tunnel-Using-Arduino-UNO/assets/146712453/9ff4d122-e2af-421a-984d-724fbfe7e3eb)
+![Logo-tinkercad-wordmark svg](https://github.com/IbrahimXXs/Germs-Sterilization-Tunnel-Using-Arduino-UNO/assets/146712453/d482b256-ad0d-4bd4-802c-ae90aa99d24e) ![Arduino_Logo svg](https://github.com/IbrahimXXs/Germs-Sterilization-Tunnel-Using-Arduino-UNO/assets/146712453/9a98af66-9d8a-4d63-a29a-703e73db40ce)
+
+
 
 
 #### Components
