@@ -5,6 +5,9 @@
 
 ### The project was developed using TinkerCAD Simulation, allowing for a virtual representation of the system.
 
+![autodesk-tinkercad4190 logowik](https://github.com/IbrahimXXs/Germs-Sterilization-Tunnel-Using-Arduino-UNO/assets/146712453/9ff4d122-e2af-421a-984d-724fbfe7e3eb)
+
+
 #### Components
 
 * PIR Sensor (Passive InfraRed): The PIR sensor detects motion, triggering the sanitization process when movement is detected.
